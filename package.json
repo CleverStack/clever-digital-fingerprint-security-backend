@@ -1,0 +1,34 @@
+{
+  "name": "clever-digitial-fingerprint-security-backend",
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "author": {
+    "name": "Clevertech",
+    "email": "info@clevertech.biz",
+    "web": "http://www.clevertech.biz"
+  },
+  "collaborators": [
+    "Sam Deering <sam@clevertech.biz>"
+  ],
+  "description": "The back-end digital fingerprint security module provides high grade security for your web app.",
+  "keywords": [
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-backend"
+  ],
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CleverStack/clever-digitial-fingerprint-security-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CleverStack/clever-digitial-fingerprint-security-backend/issues"
+  },
+  "main": "module.js",
+  "devDependencies": {
+
+  }
+}
