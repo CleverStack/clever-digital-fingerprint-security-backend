@@ -9,3 +9,6 @@ This module requires the cleverstack frontend digital fingerprint security modul
 
 ## Config
 1. You can change the security settings in the modules config `modules/cs_digitalfingerprint/config/default.json`.
+
+## Diagram
+![Digital Fingerprint Security](/assets/digital-fingerprint-diagram.jpg "Digital Fingerprint Security")
